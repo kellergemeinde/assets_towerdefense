@@ -4,4 +4,4 @@
 - dirt maps included
 - emissive maps included
 - heightmaps for generating normal maps
-- diffuse textures
+- 2048x2048px size
