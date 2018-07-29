@@ -5,3 +5,4 @@
 - pro Teil max. 2 Texturen: diffuse (tex) / emissive (emit)
 - Texturgröße: 1024x1024 px
 - Emissive Farben anpassbar
+- DEMO.png Cycles Render
